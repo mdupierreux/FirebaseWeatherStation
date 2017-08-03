@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirebaseWeatherStation.iml" filepath="$PROJECT_DIR$/FirebaseWeatherStation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirebaseWeatherStation-master.iml" filepath="$PROJECT_DIR$/FirebaseWeatherStation-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firebasehelper/firebasehelper.iml" filepath="$PROJECT_DIR$/firebasehelper/firebasehelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weatherstationcompanion/weatherstationcompanion.iml" filepath="$PROJECT_DIR$/weatherstationcompanion/weatherstationcompanion.iml" />
+    </modules>
+  </component>
+</project>
